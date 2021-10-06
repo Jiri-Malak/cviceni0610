@@ -1,2 +1,2 @@
-var1 = "Ahoj svete"
+var1 = "abcd"
 print $var1
