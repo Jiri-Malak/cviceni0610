@@ -1,0 +1,2 @@
+var1 = "Ahoj svete"
+print $var1
